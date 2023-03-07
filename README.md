@@ -1,6 +1,6 @@
 ## Hello Word!!! Me chamo Rafael Caetano
 - 📚 Atualmente sou apenas um estudante!
-- 🌱 Estudando c# e React
+- 🌱 Estudando C# e React
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
