@@ -1,4 +1,4 @@
-## Hello Word!!! Me chamo Rafael Caetano
+## Hello World!!! Me chamo Rafael Caetano
 - 📚 Atualmente sou apenas um estudante!
 - 🌱 Estudando C# e React
 
