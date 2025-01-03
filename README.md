@@ -10,8 +10,7 @@
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Rafael-React" height="30" width="40" src="https://img.icons8.com/color/48/python--v1.png" />
   <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fangular%2Fangular&psig=AOvVaw2wKbhDAwJ4lm_C8UnyZS73&ust=1735998033419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi-zuPW2YoDFQAAAAAdAAAAABAE">
-
+  <img align="center" alt="Rafael-Csharp" height="30" width="40" src="https://github.com/angular/angular/blob/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif?raw=true">
 </div>
 
 ##
